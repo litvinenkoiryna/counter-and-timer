@@ -1,0 +1,34 @@
+.button_click {
+    background-color: #61A0DA;
+    border-color: #61A0DA;
+    width: auto;
+    max-width: 90px;
+    height: 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+   }
+
+i {
+    font-size: 15px;
+    color: aliceblue;
+    margin-right: 0px;
+}
+
+#watch{
+    margin-top: 15px;
+    background: linear-gradient(109.5deg, rgb(13, 11, 136) 9.4%, rgb(86, 255, 248) 78.4%);
+    color: beige;
+    width: 120px;
+    font-size: 30px;
+    border-radius: 50px;
+    text-align: center;
+    
+}
